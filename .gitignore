@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+node_modules
+node-v12.10.0-x64.msi
